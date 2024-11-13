@@ -1,0 +1,1474 @@
+[
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "I",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "B",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "P",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "AB",
+  "OutsIIdEr": "B",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "I",
+  "CAF": "TB",
+  "OutsIIdEr": "P",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "B",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "B",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "B",
+  "OutsIIdEr": "P",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "P",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "B",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "P",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "B",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "B",
+  "CAF": "TB",
+  "OutsIIdEr": "B",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "P",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "I",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "B",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "TB",
+  "OutsIIdEr": "I",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "TB",
+  "CAF": "P",
+  "OutsIIdEr": "B",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "P",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "B",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "AB",
+  "OutsIIdEr": "B",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "AB",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "P",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "TB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "AB",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "I",
+  "CAF": "I",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "B",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "I",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "B",
+  "OutsIIdEr": "I",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "I",
+  "CAF": "TB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "I",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "B",
+  "OutsIIdEr": "B",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "P",
+  "OutsIIdEr": "I",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AB",
+  "OutsIIdEr": "P",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "I",
+  "CAF": "I",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "TB",
+  "CAF": "P",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AB",
+  "OutsIIdEr": "B",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "B",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "TB",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AB",
+  "OutsIIdEr": "B",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "B",
+  "OutsIIdEr": "I",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "B"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "B",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "TB",
+  "CAF": "AB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "I",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "P",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "B",
+  "OutsIIdEr": "B",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "B",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "B",
+  "OutsIIdEr": "I",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "TB",
+  "CAF": "I",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "TB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "AB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "AB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "TB",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "I",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "TB",
+  "CAF": "TB",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "AR",
+  "CAF": "I",
+  "OutsIIdEr": "B",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "B",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "I",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "I",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "P",
+  "OutsIIdEr": "I",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "AR",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "TB",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "I",
+  "CAF": "AB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "I",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AB",
+  "CAF": "P",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "B",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "TB",
+  "CAF": "TB",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "B",
+  "OutsIIdEr": "TB",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "TB",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "B",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "TB",
+  "OutsIIdEr": "P",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AB",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "AR",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "P",
+  "CAF": "I",
+  "OutsIIdEr": "P",
+  "RunIIquE": "AB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "P",
+  "CAF": "AR",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AR",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "B",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "P"
+ },
+ {
+  "ABiiSSeS": "AB",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AB"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "B",
+  "CAF": "AR",
+  "OutsIIdEr": "AB",
+  "RunIIquE": "B",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "TB",
+  "ApocalIIpsE": "I",
+  "CAF": "I",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "P",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "P",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "I"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "B",
+  "CAF": "P",
+  "OutsIIdEr": "P",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "TB"
+ },
+ {
+  "ABiiSSeS": "P",
+  "ApocalIIpsE": "I",
+  "CAF": "AR",
+  "OutsIIdEr": "AR",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ },
+ {
+  "ABiiSSeS": "B",
+  "ApocalIIpsE": "AB",
+  "CAF": "AR",
+  "OutsIIdEr": "I",
+  "RunIIquE": "TB",
+  "SYNDiCALiSTe": "AR"
+ }
+]
